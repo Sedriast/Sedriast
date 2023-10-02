@@ -7,7 +7,7 @@
 
 <a  href="https://github.com/exSED">
   <img src="https://github-readme-stats.vercel.app/api?username=exSED&show_icons=true&theme=transparent" width="540"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exSED&theme=transparent&hide=glsl" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exSED&theme=transparent&hide=glsl" width="250"/>
 </a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
