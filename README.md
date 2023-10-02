@@ -37,19 +37,19 @@
 <table align="center">
 	<tbody>
 		<td align="center">
-			<img alt="JSLogo" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FJS.svg?alt=media&token=add93663-d3ef-4bea-bf53-660f631d5d81" width="100"/>
+			<img alt="JSLogo" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FJS.svg?alt=media&token=755bea87-c0f9-4582-a9cc-919fa29d33d7" width="100"/>
 			<h6 >JavaScript</h6>
 		</td>
 		<td align="center">
-			<img alt="HTML" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FHTML5.svg?alt=media&token=054b072d-9c80-4ae1-b63e-36fd37034971" width="100"/>
+			<img alt="HTML" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FHTML5.svg?alt=media&token=10499ac9-6bae-43f7-81b5-52624b5079dd" width="100"/>
 			<h6 >HTML</h6>
 		</td>
 		<td align="center">
-			<img alt="CSS" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FCSS3.svg?alt=media&token=6ae081c1-9932-4d49-9916-fe6b85dddfb9" width="100"/>
+			<img alt="CSS" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FCSS3.svg?alt=media&token=3680e592-8aa3-43c6-ab9d-759ca1476238" width="100"/>
 			<h6 >CSS</h6>
 		</td>
 		<td align="center">
-			<img alt="C#" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fc%23.svg?alt=media&token=2dba9d68-c879-41c4-89aa-5089bc3f25bd" width="100"/>
+			<img alt="C#" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fc%23.svg?alt=media&token=92ff2bad-4392-4e88-9c84-5249b4fe089b" width="100"/>
 			<h6 >C#</h6>
 		</td>
 	</tbody>
@@ -57,20 +57,28 @@
 <table align="center">
 	<tbody>
 		<td align="center">
-			<img alt="NodeLogo" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fnodejs.svg?alt=media&token=a5b20a06-04fc-47b1-9ecd-94beab554bcf" width="100"/>
+			<img alt="NodeLogo" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fnodejs.svg?alt=media&token=b758655f-b68b-4854-895b-a5dd82738d6c" width="100"/>
 			<h6 >Node</h6>
 		</td>
 		<td align="center">
-			<img alt="React" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Freact.svg?alt=media&token=15a8c5e6-1d6d-4771-90ba-ab77cd68be10" width="100"/>
+			<img alt="React" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Freact.svg?alt=media&token=bb79e125-ae66-4318-9598-331182aaab51" width="100"/>
 			<h6 >React</h6>
 		</td>
 		<td align="center">
-			<img alt="Figma" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Ffigma.svg?alt=media&token=42b8601c-9679-4c4f-bff0-be54bb59a60a" width="100"/>
+			<img alt="Figma" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Ffigma.svg?alt=media&token=f6d0844e-d3c5-4cc9-8684-dc1413fb6b6c" width="100"/>
 			<h6 >Figma</h6>
 		</td>
 		<td align="center">
-			<img alt="WPF" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FWPF.svg?alt=media&token=bb3755d1-e9fd-47eb-9016-8ccf4134e4b2" width="100"/>
+			<img alt="WPF" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FWPF.svg?alt=media&token=11bda435-101b-41fc-b6c9-1bb9189747bf" width="100"/>
 			<h6 >WPF</h6>
 		</td>
  	</tbody>
+</table>
+<table align="center">
+	<tbody>
+		<td align="center">
+			<img alt="SQL" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fsql.svg?alt=media&token=c24b0c65-3824-4e69-8283-3e25eb4ee099" width="100"/>
+			<h6 >SQL</h6>
+		</td>
+  	</tbody>
 </table>
