@@ -38,7 +38,7 @@
 
 <table align="center">
 	<tbody>
-		<td align="center">
+		<td align="center" width="100">
 			<img alt="SQL" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fsql.svg?alt=media&token=51668bce-82c2-439c-a778-c8f36b719e3c" width="100"/>
 			<h6 >SQL</h6>
 		</td>
