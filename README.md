@@ -1,15 +1,8 @@
 <img alt="HandLeftDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="left" width="40"/>
 <img alt="HandRightDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="right" width="40"/>
 
-<div align="center">
-	
-> # Hi, I'm Sebastian Castañeda!
-> 
-> ### but you can tell me Sed
-
-</div>
-	
-
+<h1 align="center">Hi, I'm Sebastian Castañeda!</h1>
+<h3 align="center">but you can tell me Sed</h3>
 
 <h1></h1>
 
