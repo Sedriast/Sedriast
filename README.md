@@ -7,7 +7,8 @@
 
 <h1 align="center">
 	
-> Hi, I'm Sebastian Castañeda! 
+> Hi, I'm Sebastian Castañeda!
+> 
 > but you can tell me Sed
 
 </h1> 
