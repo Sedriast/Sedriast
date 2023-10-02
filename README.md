@@ -1,5 +1,7 @@
 <img align="center" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/README%20HEAD.svg?alt=media&token=e0ba3ec1-8ca9-4ede-a473-41a7fc244166" width="1080" />
 
+- [![GitHub followers](https://img.shields.io/github/followers/exSED?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow)
+
 <img alt="HandLeftDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="left" width="40"/>
 <img alt="HandRightDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="right" width="40"/>
 
@@ -25,17 +27,21 @@
 
 </h3>	 
 
-<h1></h1>
-
 <div align="center">
 	<img alt="MyStats" src="https://github-readme-stats.vercel.app/api?username=exSED&show_icons=true&theme=transparent" width="560"/>
 	<img alt="MyMostUsedLenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exSED&theme=transparent&hide=glsl" width="245"/>
 </div>
 
+<h1></h1>
+
 <h2>🧰	Technical skills	⚙️</h2>
 
 <table align="center">
 	<tbody>
+		<td align="center">
+			<img alt="SQL" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fsql.svg?alt=media&token=51668bce-82c2-439c-a778-c8f36b719e3c" width="100"/>
+			<h6 >SQL</h6>
+		</td>
 		<td align="center">
 			<img alt="C#" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fc%23.svg?alt=media&token=2dba9d68-c879-41c4-89aa-5089bc3f25bd" width="100"/>
 			<h6 >C#</h6>
@@ -70,12 +76,3 @@
 		</td>
 	</tbody>
 </table>
-
-
-
-- 🔭 I’m currently working on my protafolio and some ideas, and goals.
-- 🌱 I’m currently learning how to cloud concepts, IA, make media items, and be consistent.
-- 👯 I’m looking to collaborate on web develop, media ideting and create, cool AI stuff, anything I think is fun and worth while. 
-- 🤔 I’m looking for help with how to host a website locally.
-
-- [![GitHub followers](https://img.shields.io/github/followers/exSED?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow)
