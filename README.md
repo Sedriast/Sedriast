@@ -9,9 +9,6 @@
 <img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=328e9622-4b09-479c-9822-113c04c480aa" align="right" width="400" height="225"/>
 <div align="center">
 	
-
-
-
 > My mark is Sedriast and I like to take
 > 
 > on each challenge with great passion,
@@ -25,8 +22,8 @@
 > the best solution!
 </div>	 
 
-<img align="center" alt="Banner" src="" width="1080" />
 <h1></h1>
+<img align="center" alt="Banner" src="" width="1080" />
 
 <div align="center">
 	<img alt="MyStats" src="https://github-readme-stats.vercel.app/api?username=exSED&show_icons=true&theme=transparent" width="560"/>
