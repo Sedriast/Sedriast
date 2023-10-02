@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/README_HEAD.svg?alt=media&token=27c7d262-2a65-4857-abaa-1a82c21dc9b0" width="1080" />
+<img align="center" alt="Banner" src="" width="1080" />
 
 <h1></h1>
 
@@ -10,7 +10,8 @@
 	but you can tell me Sed
 </h2> 
 
-<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=0595bf78-8bd1-45c6-bfdd-86366be9a29c" align="right" width="210"/>
+<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=0595bf78-8bd1-45c6-bfdd-86366be9a29c" align="right" width="200"/>
+<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=0595bf78-8bd1-45c6-bfdd-86366be9a29c" align="left" width="200"/>
 <div align="center" width="250">
 ෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴		
 	
