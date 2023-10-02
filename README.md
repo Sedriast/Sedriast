@@ -6,8 +6,10 @@
 <img alt="HandRightDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="right" width="40"/>
 
 <h1 align="center">
-	Hi, I'm Sebastian Castañeda! 
-	but you can tell me Sed
+	
+> Hi, I'm Sebastian Castañeda! 
+> but you can tell me Sed
+
 </h1> 
 
 <img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=328e9622-4b09-479c-9822-113c04c480aa" align="right" width="400" height="250"/>
