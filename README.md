@@ -8,6 +8,7 @@
 <div align="center">
 	
 <img align="center" alt="LineDoce" src="" width="1080" />
+<h1></h1>
 
 > My mark is Sedriast and I like to take
 > 
@@ -23,7 +24,6 @@
 </div>	 
 
 <img align="center" alt="Banner" src="" width="1080" />
-
 <h1></h1>
 
 <div align="center">
