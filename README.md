@@ -15,6 +15,7 @@
 <div align="center">
 
 > ෴.෴.෴.෴.෴⛤෴.෴.෴.෴.෴
+> 
 >⛤
 > 
 > My mark is Sedriast and I like to take
@@ -30,6 +31,7 @@
 > the best solution!
 >
 > ⛤
+> 
 > ෴.෴.෴.෴.෴⛤෴.෴.෴.෴.෴
 
 </div>	 
