@@ -7,8 +7,7 @@
 <img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=328e9622-4b09-479c-9822-113c04c480aa" align="right" width="400" height="225"/>
 <div align="center">
 	
-<h1></h1>
-<h1></h1>
+<img align="center" alt="LineDoce" src="" width="1080" />
 
 > My mark is Sedriast and I like to take
 > 
