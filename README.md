@@ -31,3 +31,8 @@
 	<img alt="MyStats" src="https://github-readme-stats.vercel.app/api?username=exSED&show_icons=true&theme=transparent" width="560"/>
 	<img alt="MyMostUsedLenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exSED&theme=transparent&hide=glsl" width="245"/>
 </div>
+
+- 🔭 I’m currently working on my protafolio and some ideas, and goals.
+- 🌱 I’m currently learning how to cloud concepts, IA, make media items, and be consistent.
+- 👯 I’m looking to collaborate on web develop, media ideting and create, cool AI stuff, anything I think is fun and worth while. 
+- 🤔 I’m looking for help with how to host a website locally.
