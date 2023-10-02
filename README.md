@@ -5,6 +5,10 @@
   
 <img align="center" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/README_HEAD.svg?alt=media&token=27c7d262-2a65-4857-abaa-1a82c21dc9b0" width="1080" />
 
+<a aling="right" href="https://github.com/exSED">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exSED&theme=transparent&hide=glsl,python" />
+</a>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
