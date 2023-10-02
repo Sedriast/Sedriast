@@ -15,7 +15,8 @@
 <div align="center">
 
 > ෴.෴.෴.෴.෴⛤෴.෴.෴.෴.෴
->	
+>
+> 
 > My mark is Sedriast and I like to take
 > 
 > on each challenge with great passion,
@@ -28,6 +29,7 @@
 > 
 > the best solution!
 >
+> 
 > ෴.෴.෴.෴.෴⛤෴.෴.෴.෴.෴
 
 </div>	 
