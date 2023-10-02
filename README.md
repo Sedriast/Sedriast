@@ -12,7 +12,7 @@
 
 <img  alt="firstDeco" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlrtfyDKbp3vea_wfCVJnEUKZuNsa9TnOrw&usqp=CAU" align="right" width="400" height="270"/>
 		
-	෴.⛤.෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴⛤෴.෴.෴⛤
+	෴.⛤.෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴⛤
 	⛤
  	⛤
 	⛤	My mark is Sedriast and I like to take 
@@ -23,7 +23,7 @@
  	⛤	the best solution!
 	⛤
  	⛤
-	෴.⛤.෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴⛤෴.෴.෴⛤
+	෴.⛤.෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴⛤
   
 
 <h1></h1>
