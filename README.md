@@ -13,7 +13,7 @@
 <img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=0595bf78-8bd1-45c6-bfdd-86366be9a29c" align="right" width="300"/>
 
 <h3 align="center">
-	 ෴.෴.෴⛤෴.෴.෴
+	෴.෴.෴.෴⛤෴.෴.෴.෴
 </h3>
 <div align="center">
 	
@@ -31,7 +31,7 @@
 
 </div>	 
 <h3 align="center">
-	 ෴.෴.෴⛤෴.෴.෴
+	෴.෴.෴.෴⛤෴.෴.෴.෴
 </h3>
 
 
