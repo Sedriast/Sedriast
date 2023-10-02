@@ -10,13 +10,10 @@
 	but you can tell me Sed
 </h1> 
 
-<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=328e9622-4b09-479c-9822-113c04c480aa" align="right" width="375"/>
+<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=328e9622-4b09-479c-9822-113c04c480aa" align="right" width="300"/>
 <div align="center">
 
-> ෴.෴.෴.෴.෴⛤෴.෴.෴.෴.෴
-> 
->⛤
-> 
+
 > My mark is Sedriast and I like to take
 > 
 > on each challenge with great passion,
@@ -28,10 +25,6 @@
 > that is why I want us to create
 > 
 > the best solution!
->
-> ⛤
-> 
-> ෴.෴.෴.෴.෴⛤෴.෴.෴.෴.෴
 
 </div>	 
 
