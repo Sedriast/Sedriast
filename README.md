@@ -9,9 +9,10 @@
 <div align="center"> 
   <img  alt="firstDeco" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmlrtfyDKbp3vea_wfCVJnEUKZuNsa9TnOrw&usqp=CAU" align="right" width="300" height="100"/>
   <h3 align="left"> 
-      My name is Sebastián Castañeda and I like to take on each challenge with 
-    passion, learning from each experience, from each team and each action 
-    and everything to find the best solution. Let's make the best creation together!
+      My name is Sebastián Castañeda and I like to take on each 
+    challenge with great passion, learning from each experience, 
+    from each team, from each action, that is why I want us to create 
+    the best solution!
   </h3>
 </div>
 
