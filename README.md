@@ -5,8 +5,12 @@
   
 <img align="center" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/README_HEAD.svg?alt=media&token=27c7d262-2a65-4857-abaa-1a82c21dc9b0" width="1080" />
 
-<h3 align="left" width="500">
-  My name is Sebastian Castañeda and during my training until today, I have aimed to take on each challenge with passion, learning from each experience, from each team. Everything to find the best solution.
+<h3 align="left">
+  My name is Sebastian Castañeda and during my 
+  training until today, I have aimed to take on 
+  each challenge with passion, learning from 
+  each experience, from each team. Everything 
+  to find the best solution.
 <h3/>
 
 <div align="center">
