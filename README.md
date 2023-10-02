@@ -15,12 +15,12 @@
 	෴.⛤.෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴⛤෴.෴.෴⛤
 	⛤
  	⛤
-	⛤		My mark is Sedriast and I like to take 
-	⛤		on each challenge with great passion, 
-	⛤		learning from each experience,
-	⛤		from each team, from each action,
-	⛤		that is why I want us to create
- 	⛤		the best solution!
+	⛤	My mark is Sedriast and I like to take 
+	⛤	on each challenge with great passion, 
+	⛤	learning from each experience,
+	⛤	from each team, from each action,
+	⛤	that is why I want us to create
+ 	⛤	the best solution!
 	⛤
  	⛤
 	෴.⛤.෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴⛤෴.෴.෴⛤
