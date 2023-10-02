@@ -10,7 +10,7 @@
 	but you can tell me Sed
 </h1> 
 
-<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=0595bf78-8bd1-45c6-bfdd-86366be9a29c" align="right" width="300"/>
+<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=0595bf78-8bd1-45c6-bfdd-86366be9a29c" align="right" width="290"/>
 
 <div align="center">
 
