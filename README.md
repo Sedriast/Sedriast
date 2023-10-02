@@ -5,14 +5,13 @@
 <img alt="HandLeftDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="left" width="40"/>
 <img alt="HandRightDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="right" width="40"/>
 
-<h2 align="center">
+<h1 align="center">
 	Hi, I'm Sebastian Castañeda! 
 	but you can tell me Sed
-</h2> 
+</h1> 
 
 <img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=0595bf78-8bd1-45c6-bfdd-86366be9a29c" align="right" width="200"/>
-<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=0595bf78-8bd1-45c6-bfdd-86366be9a29c" align="left" width="200"/>
-<div align="center" width="250">
+<h4 align="center" width="250">
 ෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴		
 	
 	 My mark is Sedriast and I like to take 
@@ -22,7 +21,7 @@
 	 that is why I want us to create
 	 the best solution!
 ෴.෴.෴⛤෴.෴.෴⛤෴.෴.෴.⛤.෴.෴.෴
-</div>
+</h4>
 
 <h1></h1>
 
