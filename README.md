@@ -28,7 +28,7 @@
 	<img alt="MyMostUsedLenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exSED&theme=transparent&hide=glsl" width="245"/>
 </div>
 
-<img align="center" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/README%20HEAD.svg?alt=media&token=e0ba3ec1-8ca9-4ede-a473-41a7fc244166" width="1080" />
+<img align="center" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/DecoLine.svg?alt=media&token=cdde560b-fa00-4ddd-8bb7-54f888cd62c8" width="1080" />
 
 <h2>🧰	Technical skills	⚙️</h2>
 
