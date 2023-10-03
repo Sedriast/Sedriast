@@ -21,7 +21,11 @@
 > 
 > the best solution!
 
-</h3>	 
+</h3>
+
+<div align="center">
+[![GitHub followers](https://img.shields.io/github/followers/exSED?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow)
+</div>
 
 <div align="center">
 	<img alt="MyStats" src="https://github-readme-stats.vercel.app/api?username=exSED&show_icons=true&theme=transparent" width="560"/>
