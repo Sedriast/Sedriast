@@ -9,6 +9,11 @@
       <td>
 			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
 		</td>	
+		<td>
+			<a href="https://www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239/">
+			  <img alt="LinkedIn" src="https://img.shields.io/badge/-sebastian-blue?style=flat&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239" />
+			</a>
+		</td>	
  	</thead>
 </table>
 
@@ -43,11 +48,6 @@
 			  <img alt="GithubFollowers" src="https://img.shields.io/github/followers/exSED?label=Follow&style=social" />
 			</a>
 		</td>	
-    <td>
-			<a href="https://www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239/">
-			  <img alt="LinkedIn" src="https://img.shields.io/badge/-sebastian-blue?style=flat&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239" />
-			</a>
-		</td>	
 	</thead>
 </table>
 
@@ -71,11 +71,11 @@
 			<h6 >HTML</h6>
 		</td>
 		<td align="center">
-			<img alt="CSS" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2FCSS3.svg?alt=media&token=3680e592-8aa3-43c6-ab9d-759ca1476238" width="90"/>
+			<img alt="CSS" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fgray%2FCSS3.svg?alt=media&token=4c46a840-2399-4a45-b58f-30d7135863ba" width="90"/>
 			<h6 >CSS</h6>
 		</td>
 		<td align="center">
-			<img alt="C#" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fcolor%2Fc%23.svg?alt=media&token=92ff2bad-4392-4e88-9c84-5249b4fe089b" width="90"/>
+			<img alt="C#" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Icons%2Fgray%2Fc%23.svg?alt=media&token=866dce4e-524f-4275-afc5-b637fdfe751b" width="90"/>
 			<h6 >C#</h6>
 		</td>
 	</tbody>
