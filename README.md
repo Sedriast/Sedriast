@@ -23,9 +23,33 @@
 
 </h3>
 
-<div align="center">
-[![GitHub followers](https://img.shields.io/github/followers/exSED?label=Follow&style=social)](https://github.com/aman-atg/?tab=follow)
-</div>
+<table align="center">
+	<thead>
+		<td>
+			<a href="https://github.com/exSED">
+			  <img alt="GithubViwers" src="https://komarev.com/ghpvc/?username=exSED&style=flat-square" />
+			</a>
+		</td>	
+    <td>
+			<a href="https://github.com/exSED/?tab=follow">
+			  <img alt="GithubFollowers" src="https://img.shields.io/github/followers/exSED?label=Follow&style=social" />
+			</a>
+		</td>	
+    <td>
+			<a href="https://www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239/">
+			  <img alt="LinkedIn" src="https://img.shields.io/badge/-sebastian-blue?style=flat&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239" />
+			</a>
+		</td>	
+	</thead>
+</table>
+
+<table align="center">
+	<thead>
+      <td>
+			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
+		</td>	
+ 	</thead>
+</table>
 
 <div align="center">
 	<img alt="MyStats" src="https://github-readme-stats.vercel.app/api?username=exSED&show_icons=true&theme=transparent" width="560"/>
