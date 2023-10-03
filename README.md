@@ -4,6 +4,14 @@
 <h1 align="center">Hi, I'm Sebastian Castañeda!</h1>
 <h3 align="center">but you can tell me Sed</h3>
 
+<table align="center">
+	<thead>
+      <td>
+			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
+		</td>	
+ 	</thead>
+</table>
+
 <h1></h1>
 
 <img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/MarkSED.svg?alt=media&token=328e9622-4b09-479c-9822-113c04c480aa" align="right" width="400" height="225"/>
@@ -41,14 +49,6 @@
 			</a>
 		</td>	
 	</thead>
-</table>
-
-<table align="center">
-	<thead>
-      <td>
-			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
-		</td>	
- 	</thead>
 </table>
 
 <div align="center">
