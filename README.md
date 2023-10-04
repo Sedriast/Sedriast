@@ -58,7 +58,7 @@
 
 <img align="center" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/DecoLine.svg?alt=media&token=cdde560b-fa00-4ddd-8bb7-54f888cd62c8" width="1080" />
 
-<h2>🧰	Technical skills	⚙️</h2>
+<h2>🧰	Skills	⚙️</h2>
 
 <table align="center">
 	<tbody>
