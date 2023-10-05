@@ -40,7 +40,7 @@
 	<thead>
 		<td>
 			<a href="https://github.com/exSED">
-			  <img alt="GithubViwers" src="https://komarev.com/ghpvc/?username=exSED&style=flat-square" />
+			  <img alt="GithubViwers" src="https://komarev.com/ghpvc/?username=exSED" />
 			</a>
 		</td>	
     <td>
