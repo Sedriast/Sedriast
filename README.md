@@ -56,7 +56,7 @@
 	<img alt="MyMostUsedLenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exSED&theme=transparent&hide=glsl" width="245"/>
 </div>
 
-<img align="center" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/DecoLine.svg?alt=media&token=cdde560b-fa00-4ddd-8bb7-54f888cd62c8" width="1080" />
+<img align="center" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Decorations%2Ftopborder_0811256.svg?alt=media&token=0deaf3b8-9d65-47be-a253-5e33f432ea9a" width="1080" />
 
 <h2>🧰	Skills	⚙️</h2>
 
