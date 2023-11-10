@@ -19,7 +19,7 @@
 
 <h1></h1>
 
-<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Decorations%2Fsedriast_marck_10111051.svg?alt=media&token=e426e634-9831-4874-8190-d810ffeb6355" align="right" width="300" height="250"/>
+<img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Decorations%2Fsedriast_marck_10111051.svg?alt=media&token=e426e634-9831-4874-8190-d810ffeb6355" align="right" width="400" height="250"/>
 <h3 align="center">
 	
 > My mark is Sedriast and I like to take
