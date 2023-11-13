@@ -2,22 +2,17 @@
 <img alt="HandRightDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="right" width="40"/>
 
 <h1 align="center">Hi, I'm Sebastian Castañeda!</h1>
-<h3 align="center">but you can tell me Sed</h3>
+<h2 align="center">but you can tell me Sed</h2>
 
 <table align="center">
-	<thead>
-      <td>
-			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
-		</td>	
-		<td>
-			<a href="https://www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239/">
-			  <img alt="LinkedIn" src="https://img.shields.io/badge/-sebastian-blue?style=flat&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239" />
+	<tr>
+   		 <td>
+			<a href="https://github.com/exSED/?tab=follow">
+			  <img alt="GithubFollowers" src="https://img.shields.io/github/followers/exSED?label=Follow&style=social" />
 			</a>
 		</td>	
- 	</thead>
+	</tr>
 </table>
-
-<h1></h1>
 
 <img  alt="firstDeco" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Decorations%2Fsedriast_marck_10111051.svg?alt=media&token=e426e634-9831-4874-8190-d810ffeb6355" align="right" width="400" height="250"/>
 <h3 align="center">
@@ -38,17 +33,15 @@
 
 <table align="center">
 	<thead>
+      <td>
+			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
+		</td>	
 		<td>
-			<a href="https://github.com/exSED">
-			  <img alt="GithubViwers" src="https://komarev.com/ghpvc/?username=exSED" />
+			<a href="https://www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239/">
+			  <img alt="LinkedIn" src="https://img.shields.io/badge/-sebastian-blue?style=flat&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239" />
 			</a>
 		</td>	
-    <td>
-			<a href="https://github.com/exSED/?tab=follow">
-			  <img alt="GithubFollowers" src="https://img.shields.io/github/followers/exSED?label=Follow&style=social" />
-			</a>
-		</td>	
-	</thead>
+ 	</thead>
 </table>
 
 <div align="center">
