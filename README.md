@@ -47,8 +47,8 @@
 <h1></h1>
 
 <div align="center">
-	<img alt="MyStats" src="https://github-readme-stats.vercel.app/api?username=exSED&show_icons=true&theme=transparent" width="560"/>
-	<img alt="MyMostUsedLenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exSED&theme=transparent&hide=glsl" width="245"/>
+	<img alt="MyStats" src="https://github-readme-stats.vercel.app/api?username=Sedriast&show_icons=true&theme=transparent" width="560"/>
+	<img alt="MyMostUsedLenguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedriast&theme=transparent&hide=glsl" width="245"/>
 </div>
 
 <img align="center" alt="Banner" src="https://firebasestorage.googleapis.com/v0/b/port-e39af.appspot.com/o/Decorations%2Ftopborder_0811256.svg?alt=media&token=0deaf3b8-9d65-47be-a253-5e33f432ea9a" width="1080" />
