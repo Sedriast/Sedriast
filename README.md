@@ -8,7 +8,7 @@
 	<tr>
    		 <td>
 			<a href="https://github.com/exSED/?tab=follow">
-			  <img alt="GithubFollowers" src="https://img.shields.io/github/followers/exSED?label=Follow&style=social" />
+			  <img alt="GithubFollowers" src="https://img.shields.io/github/followers/Sedriast?label=Follow&style=social" />
 			</a>
 		</td>	
 	</tr>
