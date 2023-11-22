@@ -34,7 +34,7 @@
 <table align="center">
 	<thead>
       <td>
-			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
+			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c32421?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
 		</td>	
 		<td>
 			<a href="https://www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239/">
