@@ -34,11 +34,11 @@
 <table align="center">
 	<thead>
       <td>
-			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
+			  <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sedriast.developer@gmail.com" />
 		</td>	
 		<td>
 			<a href="https://www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239/">
-			  <img alt="LinkedIn" src="https://img.shields.io/badge/-sebastian-blue?style=flat&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239" />
+			  <img alt="LinkedIn" src="https://img.shields.io/badge/-sebastian-blue?style=flat&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/sebastian-castañeda-31a2a0239" />
 			</a>
 		</td>	
  	</thead>
