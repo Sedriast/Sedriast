@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Portfolio de Sebastián Ríos - Desarrollador de Software">
+    <title>Sebastián Ríos - Desarrollador de Software</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar" role="navigation" aria-label="Navegación principal">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <a href="#home" aria-label="Inicio">Sebastián Ríos</a>
+            </div>
+            <button class="nav-toggle" aria-label="Abrir menú de navegación" aria-expanded="false">
+                <span class="nav-toggle-line"></span>
+                <span class="nav-toggle-line"></span>
+                <span class="nav-toggle-line"></span>
+            </button>
+            <ul class="nav-menu" role="menu">
+                <li class="nav-item"><a href="#home" class="nav-link" role="menuitem">Inicio</a></li>
+                <li class="nav-item"><a href="#about" class="nav-link" role="menuitem">Sobre mí</a></li>
+                <li class="nav-item"><a href="#projects" class="nav-link" role="menuitem">Proyectos</a></li>
+                <li class="nav-item"><a href="#experience" class="nav-link" role="menuitem">Experiencia</a></li>
+                <li class="nav-item"><a href="#contact" class="nav-link" role="menuitem">Contacto</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero" aria-label="Sección principal">
+        <div class="hero-container">
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    <span class="hero-greeting">Hola, soy</span>
+                    <span class="hero-name">Sebastián Ríos</span>
+                    <span class="hero-role">Desarrollador de Software</span>
+                </h1>
+                <p class="hero-description">
+                    Transformo ideas en soluciones digitales innovadoras. 
+                    Especializado en desarrollo full-stack con tecnologías modernas.
+                </p>
+                <div class="hero-actions">
+                    <a href="#contact" class="btn btn-primary">Contactar</a>
+                    <a href="assets/cv-sebastian-rios.pdf" class="btn btn-secondary" download>
+                        <i class="fas fa-download"></i>
+                        Descargar CV
+                    </a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <div class="hero-avatar">
+                    <img src="assets/profile-photo.jpg" alt="Foto de perfil de Sebastián Ríos" class="avatar-image">
+                </div>
+            </div>
+        </div>
+        <div class="hero-scroll">
+            <a href="#about" aria-label="Desplazarse hacia abajo">
+                <i class="fas fa-chevron-down"></i>
+            </a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about" aria-label="Sobre mí">
+        <div class="container">
+            <h2 class="section-title">Sobre mí</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p class="about-bio">
+                        Soy un desarrollador de software apasionado por crear soluciones tecnológicas 
+                        que marquen la diferencia. Con experiencia en desarrollo full-stack, me especializo 
+                        en construir aplicaciones web robustas y escalables utilizando las últimas tecnologías.
+                    </p>
+                    <p class="about-bio">
+                        Mi enfoque se centra en escribir código limpio, seguir las mejores prácticas 
+                        y mantenerme actualizado con las tendencias de la industria. Disfruto trabajando 
+                        en equipo y enfrentando desafíos complejos que requieren soluciones creativas.
+                    </p>
+                </div>
+                <div class="skills-container">
+                    <div class="skills-section">
+                        <h3 class="skills-title">Habilidades Técnicas</h3>
+                        <div class="skills-grid">
+                            <div class="skill-item">
+                                <i class="fab fa-js-square"></i>
+                                <span>JavaScript</span>
+                            </div>
+                            <div class="skill-item">
+                                <i class="fab fa-python"></i>
+                                <span>Python</span>
+                            </div>
+                            <div class="skill-item">
+                                <i class="fab fa-react"></i>
+                                <span>React</span>
+                            </div>
+                            <div class="skill-item">
+                                <i class="fab fa-node-js"></i>
+                                <span>Node.js</span>
+                            </div>
+                            <div class="skill-item">
+                                <i class="fas fa-database"></i>
+                                <span>SQL</span>
+                            </div>
+                            <div class="skill-item">
+                                <i class="fab fa-git-alt"></i>
+                                <span>Git</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="skills-section">
+                        <h3 class="skills-title">Habilidades Blandas</h3>
+                        <ul class="soft-skills-list">
+                            <li>Resolución de problemas</li>
+                            <li>Trabajo en equipo</li>
+                            <li>Comunicación efectiva</li>
+                            <li>Aprendizaje continuo</li>
+                            <li>Gestión del tiempo</li>
+                            <li>Pensamiento crítico</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="projects" aria-label="Proyectos">
+        <div class="container">
+            <h2 class="section-title">Proyectos</h2>
+            <div class="projects-grid">
+                <article class="project-card">
+                    <div class="project-image">
+                        <img src="assets/project-1.jpg" alt="Captura de pantalla del E-commerce Platform">
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">E-commerce Platform</h3>
+                        <p class="project-description">
+                            Plataforma de comercio electrónico completa con panel de administración, 
+                            sistema de pagos integrado y gestión de inventario en tiempo real.
+                        </p>
+                        <div class="project-stack">
+                            <span class="tech-tag">React</span>
+                            <span class="tech-tag">Node.js</span>
+                            <span class="tech-tag">PostgreSQL</span>
+                            <span class="tech-tag">Stripe</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/sedriast/ecommerce-platform" class="project-link" aria-label="Ver código en GitHub">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="https://ecommerce-demo.sedriast.com" class="project-link" aria-label="Ver demo en vivo">
+                                <i class="fas fa-external-link-alt"></i>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-image">
+                        <img src="assets/project-2.jpg" alt="Captura de pantalla del Task Management App">
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Task Management App</h3>
+                        <p class="project-description">
+                            Aplicación de gestión de tareas con funcionalidades colaborativas, 
+                            notificaciones en tiempo real y sincronización multiplataforma.
+                        </p>
+                        <div class="project-stack">
+                            <span class="tech-tag">Vue.js</span>
+                            <span class="tech-tag">Firebase</span>
+                            <span class="tech-tag">PWA</span>
+                            <span class="tech-tag">WebSocket</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/sedriast/task-manager" class="project-link" aria-label="Ver código en GitHub">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="https://tasks.sedriast.com" class="project-link" aria-label="Ver demo en vivo">
+                                <i class="fas fa-external-link-alt"></i>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-image">
+                        <img src="assets/project-3.jpg" alt="Captura de pantalla del Weather Analytics Dashboard">
+                    </div>
+                    <div class="project-content">
+                        <h3 class="project-title">Weather Analytics Dashboard</h3>
+                        <p class="project-description">
+                            Dashboard interactivo para visualización de datos meteorológicos con 
+                            gráficos dinámicos y predicciones basadas en machine learning.
+                        </p>
+                        <div class="project-stack">
+                            <span class="tech-tag">Python</span>
+                            <span class="tech-tag">Django</span>
+                            <span class="tech-tag">D3.js</span>
+                            <span class="tech-tag">API REST</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/sedriast/weather-dashboard" class="project-link" aria-label="Ver código en GitHub">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a href="https://weather.sedriast.com" class="project-link" aria-label="Ver demo en vivo">
+                                <i class="fas fa-external-link-alt"></i>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section id="experience" class="experience" aria-label="Experiencia y educación">
+        <div class="container">
+            <h2 class="section-title">Experiencia & Educación</h2>
+            <div class="timeline">
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Senior Full Stack Developer</h3>
+                        <p class="timeline-company">TechCorp Solutions</p>
+                        <p class="timeline-date">2022 - Presente</p>
+                        <p class="timeline-description">
+                            Lidero el desarrollo de aplicaciones web escalables y dirijo un equipo de 5 desarrolladores. 
+                            Implementé arquitecturas de microservicios que mejoraron el rendimiento en un 40%.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Full Stack Developer</h3>
+                        <p class="timeline-company">Digital Innovations Inc.</p>
+                        <p class="timeline-date">2020 - 2022</p>
+                        <p class="timeline-description">
+                            Desarrollé y mantuve múltiples aplicaciones web usando React y Node.js. 
+                            Colaboré estrechamente con equipos de diseño y producto para entregar soluciones de alta calidad.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Junior Software Developer</h3>
+                        <p class="timeline-company">StartupLab</p>
+                        <p class="timeline-date">2019 - 2020</p>
+                        <p class="timeline-description">
+                            Comencé mi carrera profesional desarrollando funcionalidades para aplicaciones móviles y web. 
+                            Aprendí las mejores prácticas de desarrollo y metodologías ágiles.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Ingeniería en Sistemas</h3>
+                        <p class="timeline-company">Universidad Tecnológica</p>
+                        <p class="timeline-date">2015 - 2019</p>
+                        <p class="timeline-description">
+                            Graduado con honores. Especialización en desarrollo de software y bases de datos. 
+                            Proyecto de tesis enfocado en inteligencia artificial aplicada.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact" aria-label="Contacto">
+        <div class="container">
+            <h2 class="section-title">Contacto</h2>
+            <div class="contact-content">
+                <div class="contact-info">
+                    <h3>¿Tienes un proyecto en mente?</h3>
+                    <p>
+                        Estoy siempre interesado en nuevas oportunidades y proyectos desafiantes. 
+                        No dudes en contactarme para discutir cómo podemos trabajar juntos.
+                    </p>
+                    <div class="contact-details">
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <span>sebastian@sedriast.com</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <span>+1 (555) 123-4567</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>Ciudad de México, México</span>
+                        </div>
+                    </div>
+                    <div class="social-links">
+                        <a href="https://github.com/sedriast" class="social-link" aria-label="GitHub">
+                            <i class="fab fa-github"></i>
+                        </a>
+                        <a href="https://linkedin.com/in/sebastian-rios-dev" class="social-link" aria-label="LinkedIn">
+                            <i class="fab fa-linkedin"></i>
+                        </a>
+                        <a href="https://twitter.com/sedriast" class="social-link" aria-label="Twitter">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="mailto:sebastian@sedriast.com" class="social-link" aria-label="Email">
+                            <i class="fas fa-envelope"></i>
+                        </a>
+                    </div>
+                </div>
+                <form class="contact-form" aria-label="Formulario de contacto">
+                    <div class="form-group">
+                        <label for="name">Nombre</label>
+                        <input type="text" id="name" name="name" required aria-required="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required aria-required="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="subject">Asunto</label>
+                        <input type="text" id="subject" name="subject" required aria-required="true">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Mensaje</label>
+                        <textarea id="message" name="message" rows="6" required aria-required="true"></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <span class="btn-text">Enviar Mensaje</span>
+                        <span class="btn-loader">Enviando...</span>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Sebastián Ríos. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>
