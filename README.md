@@ -1,131 +1,61 @@
-# Sebastián Ríos - Portfolio Personal
+<img alt="HandLeftDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="left" width="40"/>
+<img alt="HandRightDeco" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" align="right" width="40"/>
 
-Un portafolio web moderno y responsivo para mostrar mis habilidades como desarrollador de software.
-
-## ✨ Características
-
-- **Diseño Responsivo**: Optimizado para todos los dispositivos
-- **Navegación Intuitiva**: Menú fijo con navegación suave
-- **Sección Hero**: Presentación impactante con llamada a la acción
-- **Sobre Mí**: Biografía profesional y habilidades técnicas/blandas
-- **Proyectos**: Galería de proyectos con tecnologías utilizadas
-- **Experiencia**: Línea de tiempo de experiencia laboral y educación
-- **Contacto**: Formulario funcional y enlaces a redes sociales
-- **Animaciones**: Transiciones suaves y efectos visuales
-- **Accesibilidad**: Cumple con estándares de accesibilidad web
-- **SEO Optimizado**: Meta tags y estructura semántica
-
-## 🚀 Tecnologías Utilizadas
-
-- **HTML5**: Estructura semántica y accesible
-- **CSS3**: Diseño moderno con Grid y Flexbox
-- **JavaScript**: Interactividad y efectos dinámicos
-- **Font Awesome**: Iconografía profesional
-- **Google Fonts**: Tipografía Inter
-
-## 📱 Responsive Design
-
-El sitio está optimizado para:
-- 📱 Móviles (320px+)
-- 📱 Tablets (768px+)  
-- 💻 Desktop (1024px+)
-- 🖥️ Pantallas grandes (1200px+)
-
-## 🌐 Demo en Vivo
-
-Visita el portfolio en: [https://sedriast.github.io/Sedriast](https://sedriast.github.io/Sedriast)
-
-## 🛠️ Instalación Local
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/Sedriast/Sedriast.git
-```
-
-2. Navega al directorio:
-```bash
-cd Sedriast
-```
-
-3. Abre `index.html` en tu navegador favorito
-
-¡Eso es todo! No requiere instalación adicional.
-
-## 📂 Estructura del Proyecto
-
-```
-Sedriast/
-├── index.html          # Página principal
-├── styles/
-│   └── main.css        # Estilos principales
-├── scripts/
-│   └── main.js         # JavaScript interactivo
-├── assets/
-│   ├── profile-photo.jpg
-│   ├── project-*.jpg
-│   └── cv-sebastian-rios.pdf
-└── README.md
-```
-
-## 🎨 Personalización
-
-### Cambiar Información Personal
-Edita `index.html` para actualizar:
-- Nombre y título profesional
-- Biografía y habilidades
-- Información de proyectos
-- Experiencia laboral
-- Datos de contacto
-
-### Modificar Estilos
-Personaliza `styles/main.css`:
-- Variables CSS en `:root` para colores y espaciado
-- Responsive breakpoints
-- Animaciones y transiciones
-
-### Agregar Funcionalidad
-Extiende `scripts/main.js` para:
-- Nuevas animaciones
-- Integración con APIs
-- Funciones adicionales
-
-## 📋 Características de Accesibilidad
-
-- ✅ Navegación por teclado
-- ✅ Etiquetas ARIA apropiadas  
-- ✅ Contraste de colores accesible
-- ✅ Texto alternativo en imágenes
-- ✅ Estructura semántica HTML5
-- ✅ Compatible con lectores de pantalla
-
-## 🚀 GitHub Pages
-
-Este sitio está configurado para desplegarse automáticamente en GitHub Pages. 
-Cualquier cambio en la rama principal se reflejará en el sitio en vivo.
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si tienes sugerencias:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
-
-## 📞 Contacto
-
-**Sebastián Ríos** - Desarrollador de Software
-
-- 📧 Email: sebastian@sedriast.com
-- 💼 LinkedIn: [sebastian-rios-dev](https://linkedin.com/in/sebastian-rios-dev)
-- 🐦 Twitter: [@sedriast](https://twitter.com/sedriast)
-- 🌐 GitHub: [@sedriast](https://github.com/sedriast)
+<h1 align="center">👋 Hola, soy Sebastián Blanco Castañeda</h1>
+<h3 align="center">Desarrollador de Software | Aspirante a Data Scientist</h3>
 
 ---
 
-⭐ ¡No olvides darle una estrella al proyecto si te ha sido útil!
+### 🚀 Sobre mí
+Soy **Sedriast**, un desarrollador apasionado por crear soluciones escalables, accesibles y con impacto real.  
+Me motiva aprender de cada proyecto, equipo y reto, siempre buscando la mejor solución.
+
+- 🎓 Ingeniero de Sistemas (Universidad de Cundinamarca)  
+- ☁️ Especialización en Google Cloud Computing  
+- 📊 Exploratory Data Analysis & Data Science Enthusiast  
+- 🌱 Interés en proyectos agroambientales y rurales  
+
+---
+
+### 🧰 Tech Stack
+<div align="center">
+
+**Frontend:** React, Next.js, HTML5, CSS3, JavaScript  
+**Backend:** Node.js, SQL, Drizzle ORM  
+**Herramientas:** Git, Figma, Kanban, Scrum  
+**Extras:** WPF, C#, Animaciones UI/UX  
+
+</div>
+
+---
+
+### 📂 Proyectos destacados
+- **Konnely** → Integración de requisitos técnicos, sociales y territoriales  
+- **Olympus** → Dashboard modular con autenticación y reportes  
+- **PymeReports (en progreso)** → App de análisis y visualización de datos para pymes  
+
+---
+
+### 📊 Stats
+<div align="center">
+  <img alt="MyStats" src="https://github-readme-stats.vercel.app/api?username=Sedriast&show_icons=true&theme=transparent" width="500"/>
+  <img alt="MyMostUsedLanguages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sedriast&theme=transparent&hide=glsl" width="300"/>
+</div>
+
+---
+
+### 📫 Conecta conmigo
+<table align="center">
+  <tr>
+    <td>
+      <a href="mailto:sedriast.developer@gmail.com">
+        <img alt="Gmail" src="https://img.shields.io/badge/-sedriast.developer@gmail.com-c32421?style=flat-square&logo=Gmail&logoColor=white"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/sebastian-blanco-casta%C3%B1eda-31a2a0239/">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/-sebastian-blue?style=flat&logo=Linkedin&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
