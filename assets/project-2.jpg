@@ -1,0 +1,38 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f8fafc"/>
+  <rect x="20" y="20" width="760" height="560" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="40" y="40" width="720" height="60" fill="#06b6d4" rx="8"/>
+  <text x="60" y="75" font-family="Arial, sans-serif" font-size="20" fill="white" font-weight="bold">Task Management App</text>
+  
+  <!-- Sidebar -->
+  <rect x="40" y="120" width="200" height="420" fill="#f1f5f9" stroke="#e2e8f0"/>
+  <text x="50" y="145" font-family="Arial, sans-serif" font-size="16" fill="#1e293b" font-weight="bold">Projects</text>
+  <rect x="50" y="160" width="180" height="25" fill="#3b82f6" rx="4"/>
+  <text x="55" y="177" font-family="Arial, sans-serif" font-size="12" fill="white">• Website Redesign</text>
+  <rect x="50" y="195" width="180" height="25" fill="transparent"/>
+  <text x="55" y="212" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• Mobile App</text>
+  <rect x="50" y="225" width="180" height="25" fill="transparent"/>
+  <text x="55" y="242" font-family="Arial, sans-serif" font-size="12" fill="#64748b">• API Development</text>
+  
+  <!-- Main Content -->
+  <rect x="260" y="120" width="500" height="420" fill="white"/>
+  <text x="270" y="145" font-family="Arial, sans-serif" font-size="18" fill="#1e293b" font-weight="bold">Today's Tasks</text>
+  
+  <!-- Task Cards -->
+  <rect x="270" y="160" width="470" height="60" fill="#f8fafc" stroke="#e2e8f0" rx="4"/>
+  <circle cx="290" cy="185" r="6" fill="#10b981"/>
+  <text x="310" y="185" font-family="Arial, sans-serif" font-size="14" fill="#1e293b">Design homepage mockup</text>
+  <text x="310" y="205" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Due: Today 3:00 PM</text>
+  
+  <rect x="270" y="235" width="470" height="60" fill="#f8fafc" stroke="#e2e8f0" rx="4"/>
+  <circle cx="290" cy="260" r="6" fill="#f59e0b"/>
+  <text x="310" y="260" font-family="Arial, sans-serif" font-size="14" fill="#1e293b">Review code changes</text>
+  <text x="310" y="280" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Due: Tomorrow 10:00 AM</text>
+  
+  <rect x="270" y="310" width="470" height="60" fill="#f8fafc" stroke="#e2e8f0" rx="4"/>
+  <circle cx="290" cy="335" r="6" fill="#ef4444"/>
+  <text x="310" y="335" font-family="Arial, sans-serif" font-size="14" fill="#1e293b">Client meeting preparation</text>
+  <text x="310" y="355" font-family="Arial, sans-serif" font-size="12" fill="#64748b">Due: Friday 9:00 AM</text>
+</svg>
