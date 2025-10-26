@@ -1,21 +1,27 @@
-/* CSS Custom Properties (Variables) */
 :root {
-    /* Colors */
-    --primary-color: #3b82f6;
-    --primary-dark: #2563eb;
-    --secondary-color: #64748b;
-    --accent-color: #06b6d4;
-    --text-primary: #1e293b;
-    --text-secondary: #64748b;
-    --text-light: #94a3b8;
-    --background: #ffffff;
-    --background-alt: #f8fafc;
-    --surface: #ffffff;
-    --border: #e2e8f0;
-    --shadow-light: 0 1px 3px 0 rgb(0 0 0 / 0.1);
-    --shadow-medium: 0 4px 6px -1px rgb(0 0 0 / 0.1);
-    --shadow-large: 0 25px 50px -12px rgb(0 0 0 / 0.25);
-    
+    --0: #ffffff;
+    --1: #eaedff;
+    --2: #d1d5e7;
+    --3: #b9bcd1;
+    --4: #a1a5ba;
+    --5: #8a8ea4;
+    --6: #73778f;
+    --7: #5d627a;
+    --8: #484d65;
+    --9: #353852;
+    --10: #22253e;
+    --11: #11132c;
+    --12: #04031a;
+    --13: #010009;
+    --14: #000000;
+    /*Contrast Colors */
+    --c1: #61b785;
+    --c2: #4da857;
+    --c3: #509041;
+    --c4: #567736;
+    --c5: #535f2b;
+    --c6: #464320;
+
     /* Typography */
     --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     --font-size-xs: 0.75rem;
@@ -32,7 +38,7 @@
     --font-weight-medium: 500;
     --font-weight-semibold: 600;
     --font-weight-bold: 700;
-    
+
     /* Spacing */
     --spacing-xs: 0.5rem;
     --spacing-sm: 0.75rem;
@@ -43,12 +49,12 @@
     --spacing-3xl: 3rem;
     --spacing-4xl: 4rem;
     --spacing-5xl: 5rem;
-    
+
     /* Layout */
     --container-max-width: 1200px;
     --border-radius: 0.5rem;
     --border-radius-lg: 1rem;
-    
+
     /* Transitions */
     --transition-fast: 0.15s ease-in-out;
     --transition-normal: 0.3s ease-in-out;
@@ -91,18 +97,40 @@ body {
 }
 
 /* Typography */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-weight: var(--font-weight-semibold);
     line-height: 1.2;
     margin-bottom: var(--spacing-md);
 }
 
-h1 { font-size: var(--font-size-4xl); }
-h2 { font-size: var(--font-size-3xl); }
-h3 { font-size: var(--font-size-2xl); }
-h4 { font-size: var(--font-size-xl); }
-h5 { font-size: var(--font-size-lg); }
-h6 { font-size: var(--font-size-base); }
+h1 {
+    font-size: var(--font-size-4xl);
+}
+
+h2 {
+    font-size: var(--font-size-3xl);
+}
+
+h3 {
+    font-size: var(--font-size-2xl);
+}
+
+h4 {
+    font-size: var(--font-size-xl);
+}
+
+h5 {
+    font-size: var(--font-size-lg);
+}
+
+h6 {
+    font-size: var(--font-size-base);
+}
 
 p {
     margin-bottom: var(--spacing-md);
@@ -290,7 +318,7 @@ a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: 
+    background-image:
         radial-gradient(circle at 25% 25%, var(--accent-color)20 0%, transparent 50%),
         radial-gradient(circle at 75% 75%, var(--primary-color)20 0%, transparent 50%);
     opacity: 0.1;
@@ -849,6 +877,7 @@ a:hover {
         opacity: 0;
         transform: translateY(30px);
     }
+
     to {
         opacity: 1;
         transform: translateY(0);
@@ -860,6 +889,7 @@ a:hover {
         opacity: 0;
         transform: translateX(30px);
     }
+
     to {
         opacity: 1;
         transform: translateX(0);
@@ -867,12 +897,19 @@ a:hover {
 }
 
 @keyframes bounce {
-    0%, 20%, 50%, 80%, 100% {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
         transform: translateY(0) translateX(-50%);
     }
+
     40% {
         transform: translateY(-10px) translateX(-50%);
     }
+
     60% {
         transform: translateY(-5px) translateX(-50%);
     }
@@ -885,50 +922,50 @@ a:hover {
         gap: var(--spacing-2xl);
         text-align: center;
     }
-    
+
     .hero-visual {
         order: -1;
     }
-    
+
     .hero-avatar {
         width: 250px;
         height: 250px;
     }
-    
+
     .about-content {
         grid-template-columns: 1fr;
         gap: var(--spacing-2xl);
     }
-    
+
     .contact-content {
         grid-template-columns: 1fr;
         gap: var(--spacing-2xl);
     }
-    
+
     .timeline::before {
         left: 30px;
     }
-    
+
     .timeline-item {
         justify-content: flex-start !important;
     }
-    
+
     .timeline-item:nth-child(even) .timeline-content {
         text-align: left;
         margin-left: var(--spacing-2xl);
         margin-right: 0;
     }
-    
+
     .timeline-marker {
         left: 30px;
     }
-    
+
     .timeline-content {
         margin-left: var(--spacing-2xl);
         margin-right: 0;
         text-align: left;
     }
-    
+
     .timeline-content::before {
         right: auto;
         left: -10px;
@@ -952,52 +989,52 @@ a:hover {
         visibility: hidden;
         transition: all var(--transition-normal);
     }
-    
+
     .nav-menu.active {
         transform: translateY(0);
         opacity: 1;
         visibility: visible;
     }
-    
+
     .nav-toggle {
         display: flex;
     }
-    
+
     .nav-toggle.active .nav-toggle-line:nth-child(1) {
         transform: rotate(45deg) translate(5px, 5px);
     }
-    
+
     .nav-toggle.active .nav-toggle-line:nth-child(2) {
         opacity: 0;
     }
-    
+
     .nav-toggle.active .nav-toggle-line:nth-child(3) {
         transform: rotate(-45deg) translate(7px, -6px);
     }
-    
+
     .hero-name {
         font-size: var(--font-size-4xl);
     }
-    
+
     .hero-actions {
         flex-direction: column;
         align-items: center;
         gap: var(--spacing-md);
     }
-    
+
     .section-title {
         font-size: var(--font-size-2xl);
     }
-    
+
     .projects-grid {
         grid-template-columns: 1fr;
     }
-    
+
     .skills-grid {
         grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
         gap: var(--spacing-md);
     }
-    
+
     .timeline-content {
         max-width: none;
     }
@@ -1007,49 +1044,49 @@ a:hover {
     .container {
         padding: 0 var(--spacing-md);
     }
-    
+
     .hero {
         padding: var(--spacing-3xl) 0;
     }
-    
+
     .hero-avatar {
         width: 200px;
         height: 200px;
     }
-    
+
     .hero-name {
         font-size: var(--font-size-3xl);
     }
-    
+
     .hero-description {
         font-size: var(--font-size-base);
     }
-    
+
     .section-title {
         font-size: var(--font-size-xl);
     }
-    
+
     .btn {
         padding: var(--spacing-sm) var(--spacing-lg);
         font-size: var(--font-size-sm);
     }
-    
+
     .hero-actions {
         width: 100%;
     }
-    
+
     .hero-actions .btn {
         width: 100%;
     }
-    
+
     .projects-grid {
         gap: var(--spacing-lg);
     }
-    
+
     .project-content {
         padding: var(--spacing-lg);
     }
-    
+
     .contact-form {
         padding: var(--spacing-lg);
     }
